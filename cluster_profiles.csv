@@ -1,0 +1,4 @@
+Cluster,ClusterName,GrowthFactor,GrowthFactor,AOV,AOV,MonthlyOrders,MonthlyOrders,TotalRevenue,TotalRevenue,TotalNetProfit,TotalNetProfit,ProfitMargin,ProfitMargin,AggregatorDependence,AggregatorDependence,DeliveryOrderShare,DeliveryOrderShare,CostPressure,CostPressure,DeliveryRadiusKM,DeliveryRadiusKM,DeliveryCostPerOrder,DeliveryCostPerOrder,Scale,Scale,GPI,GPI
+,,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median
+0,Cluster 0,1.029,1.04,38.639,38.54,1146.376,1145.0,44332.347,43268.22,7369.842,6529.12,0.164,0.161,0.753,0.8,0.853,0.877,0.625,0.631,10.54,11.0,3.112,3.25,1179.628,1172.475,55.377,56.48
+1,Cluster 1,1.027,1.04,38.182,37.825,1312.04,1316.0,49977.582,49310.2,-2880.039,-2671.075,-0.059,-0.06,0.75,0.8,0.748,0.741,0.875,0.876,10.635,11.0,3.14,3.25,1348.233,1338.72,24.201,24.13

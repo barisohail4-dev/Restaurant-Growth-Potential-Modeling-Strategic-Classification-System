@@ -1,0 +1,32 @@
+{
+  "rows_raw": 1696,
+  "columns_raw": 30,
+  "rows_clean": 1696,
+  "selected_k": 2,
+  "pca_2d_explained_variance": 0.4597512300087755,
+  "pca_components_for_80_percent_variance": 6,
+  "gpi_weights": {
+    "growth": 0.25,
+    "profitability": 0.25,
+    "cost_resilience": 0.2,
+    "channel_balance": 0.15,
+    "scalability": 0.15
+  },
+  "average_gpi": 47.06837264150943,
+  "recommendation_counts": {
+    "Rebalance Channels": 856,
+    "Hold / Stabilize": 408,
+    "Optimize": 408,
+    "Expand": 24
+  },
+  "gpi_category_counts": {
+    "Moderate Potential": 664,
+    "Low Potential": 571,
+    "High Potential": 437,
+    "Very High Potential": 24
+  },
+  "cluster_counts": {
+    "Cluster 0": 1244,
+    "Cluster 1": 452
+  }
+}
